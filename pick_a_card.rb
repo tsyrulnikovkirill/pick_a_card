@@ -3,3 +3,4 @@ suits = ["Diamonds", "Hearts", "Clubs", "Spades"]
 
 puts "Hello? man!"
 puts "#{values.sample} of #{suits.sample}"
+#rnwofmek
